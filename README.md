@@ -1,4 +1,4 @@
 # 141B_group_project
-Data:
+Data:\n
 skill_exp: skill frequency group by experience
 skill_degree: skill frequency group by degree
