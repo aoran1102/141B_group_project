@@ -1,0 +1,4 @@
+year_group,sql,excel,access,python,java,hadoop,tableau,matlab,spark,microsoft,oracl,vba,hive,spss,mysql,pig,stata,sqlserver,r,sas
+3-5,45,80,31,14,7,7,21,2,3,25,6,9,2,2,3,1,1,0,101,19
+greater than 5,14,18,17,7,4,1,7,0,2,11,4,5,1,0,1,0,0,0,18,7
+less than 2,1008,1112,933,729,225,296,282,230,256,223,114,50,50,34,23,18,65,3,1272,181
