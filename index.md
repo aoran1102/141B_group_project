@@ -65,7 +65,7 @@ Next, we find degree. The  common pattern are: __* <span style="color:red">bache
 
 ### Pie chart for Degrees
 
-<img src="pie_degree.PNG"></img>
+<img src="pie_degree.PNG"/>
 
 The pie chart for education background above gives us an overall view about how many percentage of each degree level. It appears that nearly half of the jobs require at least a master degree, 36% of them require at least a Phd degree, and only 18.9% of them require at least a bachelor degree. This result is a bit unexpected, but understandable. Because data analysis is relative high technically demanding job and requires many programming skills, therefore bachelor degrees seem not enough and sufficient to prepare you such skills. That could be one reasonable explanation about why majority of the jobs requires at least a master degree or a Phd degree. 
 
@@ -103,13 +103,13 @@ Then, we calculate frequency for each skill which is the column sum.
 
 ## Word Graph Analysis:
 
-<img src="skill_frequency.png"></img>
+<img src="skill_frequency.png"/>
 
 This graph shows the term frequency that corresponding to “Data Analyst” posts required skills. In the word frequency graph, the size of the word stand for the appeared frequency of each skill. The bigger size showed, the more the skill is required. As intuitively showed in the graph, the most required skill is “R_PROGRAMMING”, which is also called “r”. And then the second most required skill is “excel”. And the next most required skill are “sql”, “access”. And then “python” is also used in a wide range. While the “tableau”,”hadoop”, “spark”, “microsoft”, “java”, “matlab”, “sas”, “oracl” are not used as often as the other skills we mentioned above. In the end, “stata”, “vba”, “hive”, ”spss”, “mysql”, ”pig”, “sqlserver” are required less, in some word, they are almost not required except some special cases. This is corresponding to our conclusion in the bar plots at first, while this graph is more intuitive.
 
 ### Total
 
-<img src="skill_distribution_total1.png"></img>
+<img src="skill_distribution_total1.png"/>
 
 ## Total Skill Distribution Analysis:
 
@@ -117,9 +117,11 @@ This graph shows the required skill distribution among the total posts. In the g
 
 Then, we get frequenct according to experience and degree.
 
-#### Bachelor degree
+### Bachelor degree
 
-<img src="skill_distribution_bachelor_degree.png" align="left"style="max-width:80%; width: 60%" ></img>    
+<img src="skill_distribution_bachelor_degree.png" align="left" style="max-width:80%; width: 60%"/>    
+
+
 
 ## Bachelor Degree Skill Distribution Analysis:
 
@@ -127,7 +129,9 @@ This graph shows the “Data Analyst” required skills distribution among the b
 
 ### Master degree
 
-<img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="left"></img>     
+<img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="left"/>  
+
+
 
 ## Master Degree Skill Distribution Analysis:
 
@@ -135,7 +139,9 @@ This graph shows the “Data Analyst” required skills distribution among the m
 
 ### Phd degree
 
-<img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="left"></img>     
+<img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="left"/>   
+
+
 
 ## Phd Degree Skill Distribution Analysis:
 
@@ -143,7 +149,7 @@ This graph shows the “Data Analyst” required skills distribution among the p
 
 ## Skill requirements vs Working Experience
 
-<img src="bar_2.PNG" style="max-width:100%; width: 50%" align="left"></img><img src="bar3_5.PNG" style="max-width:50%; width: 100%"></img><img src="bar_5.PNG"  style="max-width:80%; width: 50%"></img>
+<img src="bar_2.PNG" style="max-width:100%; width: 50%" align="left"/><img src="bar3_5.PNG" style="max-width:50%; width: 100%"/><img src="bar_5.PNG"  style="max-width:80%; width: 50%"/>
 
 To analyze the skill requirements under various working experience, we count the required skills conditioning on different level of working experience and draw the bar plots respectively. From the bar plots, it shows that r, excel, sql, access are the most commonly skills required regardless of working experience. In addition, SAS and vba are more important for the jobs required more than 2 years working experience. While, Spark and matlab appear to be less significant for the jobs required at least more than 2 years working experience. 
 
