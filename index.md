@@ -27,7 +27,7 @@ After combining the information about the jobs, we get dataframe.
 
 Our goal is to find the common required or prefered skills for data scientist in California, so we remove the posts without mentioning * <span style="color:blue">analy</span>  *. After subset, we have 2455 observations in the data.
 
-Generally, the skills required are in the descripttions of job requirments. We first find the requirements from the job description. Sometimes, the requirements strat with key words like__* <span style="color:red">require, skill, qualification, qualify</span>  * __, we locate requirements by these words. While some posts have other rare pattern, we just keep the whole description.
+Generally, the skills required are in the descripttions of job requirments. We first find the requirements from the job description. Sometimes, the requirements strat with key words like__*<span style="color:red">require, skill, qualification, qualify</span>* __, we locate requirements by these words. While some posts have other rare pattern, we just keep the whole description.
 
 ## *Data processing *
 
