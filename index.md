@@ -43,7 +43,7 @@ Counts  |  >600 |  201-600 | 101-200 |  51-100 | 11-50
 --------|-----------------------------------------------
 Size    |   20  |    10    |    8    |   6     |   4   
 
-<img src="map.png"></img>
+<img src="map.PNG"></img>
 
 In preliminary analysis, we first extract job locations from our database and summarize the counts in each city. Then, we classify the counts into six categories, with respective values 20, 10, 8, 6, 4, 2. Next, we use dots to represent the cities and plot them on California map. Each color represents a group and the bigger the dot, the more job opportunities are offered in that city. So we can clearly see that the largest red dot, which is San Francisco, has the most job opportunities in California. The second large blue dots are in Palo Alto, and Sacramento. And the third large green dots are in Los Angeles and San Diego. If you are seeking for a job in data analyst, you’d better apply more in these cities.
 
@@ -57,7 +57,7 @@ Then, we group year as 3 groups: less than 2, 3-5 and greater than 5:
 
 ### Pie chart for working experience
 
-<img src="pie_exp.png"></img>
+<img src="pie_exp.PNG"></img>
 
 From the pie chart for working experience, we can see that 91.9% of the jobs require at most 2 years working experience, 6.8% of them require 3 to 5 working experience and only 1.3% of the jobs requires more than 5 years working experience. Although it seems that having longer working experience is not necessary to meet the requirement of the jobs, this bias may be due to our dataset. Maybe the 2445 job posts we used contain much more entry level jobs than higher lever jobs. Or the jobs that require longer working experience might not be listed in the basic requirements, but they might be in the preferred requirements or by recommendation. 
 
@@ -103,13 +103,13 @@ Then, we calculate frequency for each skill which is the column sum.
 
 ## Word Graph Analysis:
 
-<img src="skill_frequency.PNG"></img>
+<img src="skill_frequency.png"></img>
 
 This graph shows the term frequency that corresponding to “Data Analyst” posts required skills. In the word frequency graph, the size of the word stand for the appeared frequency of each skill. The bigger size showed, the more the skill is required. As intuitively showed in the graph, the most required skill is “R_PROGRAMMING”, which is also called “r”. And then the second most required skill is “excel”. And the next most required skill are “sql”, “access”. And then “python” is also used in a wide range. While the “tableau”,”hadoop”, “spark”, “microsoft”, “java”, “matlab”, “sas”, “oracl” are not used as often as the other skills we mentioned above. In the end, “stata”, “vba”, “hive”, ”spss”, “mysql”, ”pig”, “sqlserver” are required less, in some word, they are almost not required except some special cases. This is corresponding to our conclusion in the bar plots at first, while this graph is more intuitive.
 
 ### Total
 
-<img src="skill_distribution_total1.PNG"></img>
+<img src="skill_distribution_total1.png"></img>
 
 ## Total Skill Distribution Analysis:
 
@@ -119,7 +119,7 @@ Then, we get frequenct according to experience and degree.
 
 #### Bachelor degree
 
-<img src="skill_distribution_bachelor_degree.PNG" align="left"style="max-width:80%; width: 60%"  style="max-width:80%; width: 60%" ></img>
+<img src="skill_distribution_bachelor_degree.png" align="left"style="max-width:80%; width: 60%"  style="max-width:80%; width: 60%" ></img>
 
 ## Bachelor Degree Skill Distribution Analysis:
 
@@ -127,7 +127,7 @@ This graph shows the “Data Analyst” required skills distribution among the b
 
 ### Master degree
 
-<img src="skill_distribution_master_degree.PNG" style="max-width:80%; width: 60%" align="left"></img>
+<img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="left"></img>
 
 ## Master Degree Skill Distribution Analysis:
 
@@ -135,7 +135,7 @@ This graph shows the “Data Analyst” required skills distribution among the m
 
 ### Phd degree
 
-<img src="skill_distribution_phd_degree.PNG" style="max-width:100%; width: 60%" align="left"></img>
+<img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="left"></img>
 
 ## Phd Degree Skill Distribution Analysis:
 
