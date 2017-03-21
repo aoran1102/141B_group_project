@@ -43,7 +43,7 @@ Counts  |  >600 |  201-600 | 101-200 |  51-100 | 11-50
 --------|-----------------------------------------------
 Size    |   20  |    10    |    8    |   6     |   4   
 
-<img src="map.PNG"></img>
+<img src="map.PNG"/>
 
 In preliminary analysis, we first extract job locations from our database and summarize the counts in each city. Then, we classify the counts into six categories, with respective values 20, 10, 8, 6, 4, 2. Next, we use dots to represent the cities and plot them on California map. Each color represents a group and the bigger the dot, the more job opportunities are offered in that city. So we can clearly see that the largest red dot, which is San Francisco, has the most job opportunities in California. The second large blue dots are in Palo Alto, and Sacramento. And the third large green dots are in Los Angeles and San Diego. If you are seeking for a job in data analyst, you’d better apply more in these cities.
 
@@ -119,7 +119,7 @@ Then, we get frequenct according to experience and degree.
 
 #### Bachelor degree
 
-<img src="skill_distribution_bachelor_degree.png" align="left"style="max-width:80%; width: 60%"  style="max-width:80%; width: 60%" ></img>
+<img src="skill_distribution_bachelor_degree.png" align="left"style="max-width:80%; width: 60%" ></img>    
 
 ## Bachelor Degree Skill Distribution Analysis:
 
@@ -127,7 +127,7 @@ This graph shows the “Data Analyst” required skills distribution among the b
 
 ### Master degree
 
-<img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="left"></img>
+<img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="left"></img>     
 
 ## Master Degree Skill Distribution Analysis:
 
@@ -135,7 +135,7 @@ This graph shows the “Data Analyst” required skills distribution among the m
 
 ### Phd degree
 
-<img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="left"></img>
+<img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="left"></img>     
 
 ## Phd Degree Skill Distribution Analysis:
 
