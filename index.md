@@ -66,7 +66,6 @@ Next, we find degree. The  common pattern are: __* <span style="color:red">bache
 ### Pie chart for Degrees
 
 <img src="pie_degree.PNG"></img>
-![image](/pie_degree.PNG)
 
 The pie chart for education background above gives us an overall view about how many percentage of each degree level. It appears that nearly half of the jobs require at least a master degree, 36% of them require at least a Phd degree, and only 18.9% of them require at least a bachelor degree. This result is a bit unexpected, but understandable. Because data analysis is relative high technically demanding job and requires many programming skills, therefore bachelor degrees seem not enough and sufficient to prepare you such skills. That could be one reasonable explanation about why majority of the jobs requires at least a master degree or a Phd degree. 
 
