@@ -57,7 +57,7 @@ Then, we group year as 3 groups: less than 2, 3-5 and greater than 5:
 
 ### Pie chart for working experience
 
-<img src="pie_exp.PNG"></img>
+<img src="pie_exp.PNG"/>
 
 From the pie chart for working experience, we can see that 91.9% of the jobs require at most 2 years working experience, 6.8% of them require 3 to 5 working experience and only 1.3% of the jobs requires more than 5 years working experience. Although it seems that having longer working experience is not necessary to meet the requirement of the jobs, this bias may be due to our dataset. Maybe the 2445 job posts we used contain much more entry level jobs than higher lever jobs. Or the jobs that require longer working experience might not be listed in the basic requirements, but they might be in the preferred requirements or by recommendation. 
 
