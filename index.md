@@ -117,16 +117,7 @@ This graph shows the required skill distribution among the total posts. In the g
 
 Then, we get frequenct according to experience and degree.
 
-### Bachelor degree
-
-<img src="skill_distribution_bachelor_degree.png" align="left" style="max-width:80%; width: 60%"/>    
-
-
-
-
-
-
-
+<img src="skill_distribution_bachelor_degree.png" align="right" style="max-width:80%; width: 60%"/>    
 
 ## Bachelor Degree Skill Distribution Analysis:
 
@@ -134,14 +125,7 @@ This graph shows the “Data Analyst” required skills distribution among the b
 
 ### Master degree
 
-<img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="left"/>  
-
-
-
-
-
-
-
+<img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="right"/>  
 
 ## Master Degree Skill Distribution Analysis:
 
@@ -149,15 +133,7 @@ This graph shows the “Data Analyst” required skills distribution among the m
 
 ### Phd degree
 
-<img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="left"/>   
-
-
-
-
-
-
-
-
+<img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="right"/>   
 
 ## Phd Degree Skill Distribution Analysis:
 
