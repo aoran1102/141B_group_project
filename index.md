@@ -123,15 +123,11 @@ Then, we get frequenct according to experience and degree.
 
 This graph shows the “Data Analyst” required skills distribution among the bachelor degree. In the graph, the horizontal axis stands for the “counts”, which means the total number of every skill needed in the bachelor level “Data Analyst” posts. On the other hand, the vertical axis means the skills’ name that is required among the total posts. As directly showed in the graph, we can find that the most used skill is “excel”, and then the second most required skill is “r”. And the next most required skills are “sql”, “access”. And then “python” is also used in a wide range. While the “tableau”,”hadoop”, “spark”, “microsoft”, “java”, “matlab”, “sas”, “oracl” are not used as often as the other skills we mentioned above. In the end, “stata”, “vba”, “hive”, ”spss”, “mysql”, ”pig”, “sqlserver” are required less, in some word, they are almost not required except some special cases. There are not too many differences between the bachelor degree and total statistics. The biggest difference is that the most required skill is “r”, which is obvious more than other skills. But “excel” is not required as more as other degree required. This may because of the undergraduate students can arrive at the proficient “r” level.
 
-### Master degree
-
 <img src="skill_distribution_master_degree.png" style="max-width:80%; width: 60%" align="right"/>  
 
 ## Master Degree Skill Distribution Analysis:
 
 This graph shows the “Data Analyst” required skills distribution among the master degree. In the graph, the horizontal axis stands for the “counts”, which means the total number of every skill needed in the master level “Data Analyst” posts. On the other hand, the vertical axis means the skills’ name that is required among the total posts. As directly showed in the graph, we can find that the most used skill is also “excel”, and then the second most required skill is “sql”. And the next most required skill are “r”, “access”. And then “python” is also used in a wide range. While the “tableau”,”hadoop”, “spark”, “microsoft”, “java”, “matlab”, “sas”, “oracl” are not used as often as the other skills we mentioned above. In the end, “stata”, “vba”, “hive”, ”spss”, “mysql”, ”pig”, “sqlserver” are required less, in some word, they are almost not required except some special cases. There are not too many differences between the master degree and total statistics. The most big difference is that the most required skill becomes into “excel” rather than “r”, this may because of the master level students acquire more kinds of skills not only be limited into “r” programming language.
-
-### Phd degree
 
 <img src="skill_distribution_phd_degree.png" style="max-width:100%; width: 60%" align="right"/>   
 
